@@ -16,7 +16,8 @@ A few resources to get you started if this is your first Flutter project:
 - [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
   
 **2. OpenAI API Key:(GPT Turbo 3.5 & Dalle API for Image Creation**
-[Documention Of OPenApI Key](https://platform.openai.com/docs/api-reference/introduction)
+
+[Documention Of OPENAI API](https://platform.openai.com/docs/api-reference/introduction)
 
 # Contact Me
 If you found any issue or bugs in my App please report me at abeducationapk@gmail.com / help@iamarpandev.tech
