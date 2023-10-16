@@ -1,4 +1,5 @@
 # Esha: A Virtual Voice Assistant App Powered by OPEN AI
+![356788946_9439437966128118_400517917292091505_n heic](https://github.com/Arpandev-code/Esha-A-Virtual-Voice-Assistant-/assets/69894768/a9291968-db53-4507-8539-591b54b4e4ba)
 
 *Descrption*: 
 
