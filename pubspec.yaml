@@ -41,6 +41,8 @@ dependencies:
   flutter_tts: ^3.6.3
   lottie: ^2.3.2
   share: ^2.0.4
+  flutter_dotenv: ^5.1.0
+  
   
 
 flutter_app_name:
@@ -80,6 +82,7 @@ flutter:
     - assets/
     - assets/images/
     - assets/fonts/
+    - .env
 
   # An image asset can refer to one or more resolution-specific "variants", see
   # https://flutter.dev/assets-and-images/#resolution-aware

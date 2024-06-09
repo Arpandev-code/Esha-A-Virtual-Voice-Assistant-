@@ -26,7 +26,7 @@ class OpenAIServices {
               }
             ]
           }));
-      print(res.body);
+      //  print(res.body);
       if (res.statusCode == 200) {
         String content =
             jsonDecode(res.body)['choices'][0]['message']['content'];
@@ -66,7 +66,7 @@ class OpenAIServices {
             "model": "gpt-3.5-turbo",
             "messages": messsages,
           }));
-      print(res.body);
+      //  print(res.body);
       if (res.statusCode == 200) {
         String content =
             jsonDecode(res.body)['choices'][0]['message']['content'];
